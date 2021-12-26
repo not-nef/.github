@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nef2008
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
+hi, im nef
 
-<!---
-nef2008/nef2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+im 13yo and i suck at school
+
+i like programming in python
+
+you will find me doing things at [TimerX](https://github.com/sumeshir21/TimerX)
+
